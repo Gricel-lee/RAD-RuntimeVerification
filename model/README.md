@@ -7,3 +7,4 @@ The RAD snagging resolution system is modelled as a parametric Discrete Time Mar
 </p>
 
 The model is written in the PRISM model checker language and available [within this folder](https://github.com/Gricel-lee/RAD-RuntimeVerification/blob/main/model/pDTMC_snag_cost_integrated_time2.pm).
+We refer the reader to our paper for further details.
