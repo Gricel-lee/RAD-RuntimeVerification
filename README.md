@@ -6,3 +6,6 @@ We present a control framework for robot-assisted dressing that augments low-lev
   <img src="https://github.com/user-attachments/assets/f432ae79-b267-44eb-8ab9-727b559a69ff" width="45%">
 </p>
 
+## GitHub repo structure
+
+The pDTMC model is available in the [model folder](https://github.com/Gricel-lee/RAD-RuntimeVerification/tree/main/model).
